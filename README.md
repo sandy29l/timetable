@@ -25,7 +25,7 @@ Execute the program
   <body><center>
     <img align="center" src="logo.png" width="350px" height="80px"></center>
     <h2 align="center"> <b>Slot time table-Santhosh L(212222100046)</b></h2>
-    <table bgcolor="white" align="center" border="15" cellpadding="15" cellspacing="4">
+    <table bgcolor="white" align="center" width =700 border="15" cellpadding="15" cellspacing="4">
       <tr bgcolor="#7fffd4">
         <th>Day/time</th>
         <th>Monday</th>
@@ -76,7 +76,7 @@ Execute the program
       </tr>
     </table>
     <br>
-    <table bgcolor="white" align="center" border="10" cellpadding="10" cellspacing="4">
+    <table bgcolor="white" width=740 align="center" border="15" cellpadding="15" cellspacing="4">
       <tr>
         <th>S.NO</th>
         <th>Subject Code</th>
@@ -117,4 +117,5 @@ Execute the program
 </html>
 ```
 # OUPUT
-![Screenshot (38)](https://github.com/sandy29l/timetable/assets/123359969/8c098b2c-2f98-466f-b83f-f5fbc2750a43)
+![Screenshot (39)](https://github.com/sandy29l/timetable/assets/123359969/afc40ded-cd58-4db2-8936-1b36777d176a)
+
