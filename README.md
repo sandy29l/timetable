@@ -1,5 +1,5 @@
-# Experiment_Time_Table
-
+# Ex03 Time_Table
+# DATE: 30/10/2023
 ## AIM
 To Write a html webpage page to display your timetable.
 
